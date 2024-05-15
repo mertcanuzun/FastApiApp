@@ -10,7 +10,7 @@ pydantic: Pydantic is a library used for data validation and structure definitio
 
 
 Installation
-  Clone the repository: 
+  Clone the repository: https://github.com/mertcanuzun/FastApiApp.git
 
 Usage
   Run the FastAPI server: uvicorn main:app --host 127.0.0.1 --port 8000
