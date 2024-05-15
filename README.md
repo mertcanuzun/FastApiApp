@@ -22,10 +22,15 @@ Usage:
 Endpoints: 
 
   Users: CRUD operations for managing users.
+  
   Tasks: CRUD operations for managing tasks.
+  
   Notes: CRUD operations for managing notes.
+  
   Books: CRUD operations for managing books.
+  
   Posts: CRUD operations for managing posts.
+  
   Authentication: Endpoints for user login and logout.
   
 API Documentation:
